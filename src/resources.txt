@@ -1,0 +1,19 @@
+// Layouts
+https://webdeasy.de/en/top-css-buttons-en/
+https://css-tricks.com/building-skeleton-components-with-react/
+
+//Blockchain
+https://github.com/Fair-Exchange/safecoin-web3.js 
+https://herajscrypto.readthedocs.io/en/v0.16.0/api/seed.html mnemonic
+https://solana-labs.github.io/solana-web3.js/classes/connection.html#getbalance
+https://github.com/araviel-io/SolanaWallet/tree/master/src < simple usage
+
+//React
+https://www.makeschool.com/mediabook/oa/tutorials/react-fundamentals-vm0/build-a-header-component/ < BASIC COMPONENT
+https://www.digitalocean.com/community/tutorials/how-to-create-wrapper-components-in-react-with-props
+https://stackoverflow.com/questions/48131100/react-render-array-of-components
+// React - Router
+https://reactrouter.com/web/example/basic
+// React + Typescript
+https://blog.bitsrc.io/5-strong-reasons-to-use-typescript-with-react-bc987da5d907
+https://www.pluralsight.com/guides/composing-react-components-with-typescript
